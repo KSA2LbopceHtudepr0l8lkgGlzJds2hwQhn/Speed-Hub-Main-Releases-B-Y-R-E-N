@@ -1,6 +1,0 @@
-setclipboard("https://discord.gg/speedhub")
-print("lol")
-task.wait(2)
-local Plr = cloneref(game:GetService('Players'))
-local LP = Plr.LocalPlayer
-LP:Kick("Join the discord copied in your clipboard for the latest update, this script is outdated")
