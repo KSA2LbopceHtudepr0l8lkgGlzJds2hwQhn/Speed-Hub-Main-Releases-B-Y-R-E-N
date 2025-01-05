@@ -1,4 +1,0 @@
-setclipboard("https://discord.gg/speedhub")
-print("lol")
-task.wait(2)
-game:GetService('Players').LocalPlayer:Kick("Join the discord pasted in your clipboard for the latest update")
